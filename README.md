@@ -54,7 +54,6 @@ GESTION_ETUDIANT/
 
 Exemple de script SQL pour créer la base et les tables :  
 
-```sql
 CREATE DATABASE IF NOT EXISTS gestion_etudiant;
 USE gestion_etudiant;
 
@@ -78,8 +77,9 @@ CREATE TABLE etudiant (
 
 ⚠️ Remarque : la base de données n’est pas incluse dans le dépôt GitHub. Il faudra l’importer manuellement avec le script SQL ci-dessus.
 
-### Quelques illustrations:
+---
 
+### Quelques illustrations:
 <img width="1887" height="955" alt="Capture d&#39;écran 2026-03-25 125901" src="https://github.com/user-attachments/assets/3d94f69e-0294-4299-92e2-103242444131" />
 <img width="1858" height="947" alt="Capture d&#39;écran 2026-03-25 125826" src="https://github.com/user-attachments/assets/de16c0e1-c2c7-4306-a6a1-56df7cecce27" />
 <img width="1861" height="912" alt="Capture d&#39;écran 2026-03-25 130516" src="https://github.com/user-attachments/assets/6bd1345f-8544-49dc-ad6d-94640ce10477" />
