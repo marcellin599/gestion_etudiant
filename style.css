@@ -1,0 +1,11 @@
+.pagehead {
+    text-align: center;
+    background: #141413;
+    padding: 50px;
+    letter-spacing: 2px;
+    color: rgb(235, 239, 235);
+    font-weight: 500;
+}
+h5 {
+    text-align:center;  
+}
